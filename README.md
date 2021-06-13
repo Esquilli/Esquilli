@@ -1,1 +1,1 @@
-[![Esquilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=esquilli)](https://github.com/anuraghazra/github-readme-stats)
+[![Esquilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=esquilli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
