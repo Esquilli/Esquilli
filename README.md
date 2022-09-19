@@ -25,4 +25,4 @@ esquilli.sayHi()
 
 You can find my website [here](https://esquilli.dev/) 🌎
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Esquilli.8277fa86-166e-4e03-a51b-ed3bdcf0ac52&left_color=blueviolet&right_color=red)
+![](https://komarev.com/ghpvc/?username=esquilli&color=red)
