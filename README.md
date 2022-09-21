@@ -5,7 +5,7 @@ Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 🤘🏼
 [![Gmail: esquillidev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esquillidev@gmail.com)
 
 ```swift
-struct Awkward Human {
+struct AwkwardHuman {
     let name: String
     let role: String
     let interests: [String]
@@ -15,7 +15,7 @@ struct Awkward Human {
     }
 }
 
-let esquilli = Awkward Human(
+let esquilli = AwkwardHuman(
     name: "Pedro J. Fernandez",
     role: "iOS Software Engineer @ Doordash 🚗",
     interests: ["iOS", "UI/UX", "Bread", "League of Legends"]
